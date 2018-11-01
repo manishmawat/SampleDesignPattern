@@ -1,0 +1,6 @@
+D:\Manish\Practice\DesignPatterns\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+D:\Manish\Practice\DesignPatterns\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.exe
+D:\Manish\Practice\DesignPatterns\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.pdb
+D:\Manish\Practice\DesignPatterns\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.csproj.CoreCompileInputs.cache
+D:\Manish\Practice\DesignPatterns\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.exe
+D:\Manish\Practice\DesignPatterns\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.pdb

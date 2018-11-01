@@ -1,0 +1,17 @@
+D:\Manish\Practice\DesignPatterns\SingletonPattern\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+D:\Manish\Practice\DesignPatterns\SingletonPattern\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\Manish\Practice\DesignPatterns\SingletonPattern\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Manish\Practice\DesignPatterns\SingletonPattern\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Manish\Practice\DesignPatterns\SingletonPattern\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Manish\Practice\DesignPatterns\SingletonPattern\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Manish\Practice\DesignPatterns\SingletonPattern\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Manish\Practice\DesignPatterns\SingletonPattern\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Manish\Practice\DesignPatterns\SingletonPattern\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Manish\Practice\DesignPatterns\SingletonPattern\UnitTestProject1\bin\Debug\SingletonPattern.exe
+D:\Manish\Practice\DesignPatterns\SingletonPattern\UnitTestProject1\bin\Debug\SingletonPattern.pdb
+D:\Manish\Practice\DesignPatterns\SingletonPattern\UnitTestProject1\bin\Debug\SingletonPattern.exe.config
+D:\Manish\Practice\DesignPatterns\SingletonPattern\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Manish\Practice\DesignPatterns\SingletonPattern\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Manish\Practice\DesignPatterns\SingletonPattern\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+D:\Manish\Practice\DesignPatterns\SingletonPattern\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Manish\Practice\DesignPatterns\SingletonPattern\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
