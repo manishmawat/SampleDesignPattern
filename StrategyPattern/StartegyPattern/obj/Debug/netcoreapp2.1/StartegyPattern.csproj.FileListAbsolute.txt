@@ -1,0 +1,11 @@
+D:\Manish\Practice\DesignPatterns\StrategyPattern\StartegyPattern\bin\Debug\netcoreapp2.1\StartegyPattern.deps.json
+D:\Manish\Practice\DesignPatterns\StrategyPattern\StartegyPattern\bin\Debug\netcoreapp2.1\StartegyPattern.runtimeconfig.json
+D:\Manish\Practice\DesignPatterns\StrategyPattern\StartegyPattern\bin\Debug\netcoreapp2.1\StartegyPattern.runtimeconfig.dev.json
+D:\Manish\Practice\DesignPatterns\StrategyPattern\StartegyPattern\bin\Debug\netcoreapp2.1\StartegyPattern.dll
+D:\Manish\Practice\DesignPatterns\StrategyPattern\StartegyPattern\bin\Debug\netcoreapp2.1\StartegyPattern.pdb
+D:\Manish\Practice\DesignPatterns\StrategyPattern\StartegyPattern\obj\Debug\netcoreapp2.1\StartegyPattern.csprojAssemblyReference.cache
+D:\Manish\Practice\DesignPatterns\StrategyPattern\StartegyPattern\obj\Debug\netcoreapp2.1\StartegyPattern.csproj.CoreCompileInputs.cache
+D:\Manish\Practice\DesignPatterns\StrategyPattern\StartegyPattern\obj\Debug\netcoreapp2.1\StartegyPattern.AssemblyInfoInputs.cache
+D:\Manish\Practice\DesignPatterns\StrategyPattern\StartegyPattern\obj\Debug\netcoreapp2.1\StartegyPattern.AssemblyInfo.cs
+D:\Manish\Practice\DesignPatterns\StrategyPattern\StartegyPattern\obj\Debug\netcoreapp2.1\StartegyPattern.dll
+D:\Manish\Practice\DesignPatterns\StrategyPattern\StartegyPattern\obj\Debug\netcoreapp2.1\StartegyPattern.pdb
